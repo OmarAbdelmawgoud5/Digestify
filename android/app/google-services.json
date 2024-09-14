@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "682979098718",
+    "project_id": "digestify-2ab01",
+    "storage_bucket": "digestify-2ab01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:682979098718:android:771f598fe301f54cc6b4cf",
+        "android_client_info": {
+          "package_name": "com.digestify.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzbC6st9jAv4DNqRKX7S5ZkU_WIibsCdE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
